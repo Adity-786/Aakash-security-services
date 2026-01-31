@@ -1,0 +1,131 @@
+.heading{
+    color: red;
+      text-align: center;
+ text-shadow: 2px 2px 2px black;
+       font-size: 32px;
+
+       font-family: poppins;
+
+            }
+            .add{
+                  font-family: poppins;
+                  font-size: smaller;
+                  color: whitesmoke;
+            }
+            .address{
+                  font-family: poppins;
+                  font-size: smaller;
+            }
+            .emain{
+                  font-family: poppins;
+                  font-size: 20px;
+                  color: whitesmoke;
+            }
+
+            .details {
+                  text-shadow: 2px 2px 2px black;
+                  color: red;
+                  text-align: center;
+                  font-family: poppins;
+                  font-size: 20px;
+            }
+
+            form {
+                  text-align: center;
+                  font-size: 30px;
+                  line-height: 40px;
+                  font-family: poppins;
+                  font-size: 20px;
+            }
+
+            button {
+                  color: white;
+                  background-color: blue;
+                  border-radius: 34px;
+                  font-size: 20px;
+                  padding: 10px;
+                  font-family: poppins;
+                  
+            }
+
+            body {
+                 background: linear-gradient(132deg,rgb(113, 115, 252),skyblue,cyan);
+                 animation: gradientDrift 15s linear infinite;
+            }
+
+            @keyframes gradientDrift {
+  0% {
+    background-position: 0% 50%; /* Start position */
+  }
+  100% {
+    background-position: 100% 50%; /* End position for horizontal movement */
+  }
+}
+
+         .contact {
+                  color: black;
+                  display: inline;
+                  font-size: 25px;
+                  text-shadow: 2px 2px 2px grey;
+                  padding-left: 400px;
+                 
+                  font-family: poppins;
+            }
+            .contactin{
+                color: white;
+                display: inline;
+                font-size: 24px;
+                font-family: poppins;
+            }
+          .email :first-child{
+            color: red;
+            text-shadow: 2px 2px 2px black;
+            font-size: 34px;
+            
+            font-family: poppins;
+          }
+          
+          .no{
+            text-align: center;
+            font-family: poppins;
+          }
+     .img{
+      text-align: center;
+     }
+    .address{
+        font-size: 27px;
+        padding-left: 290px;
+        text-shadow: 2px 2px 2px grey;
+        display: inline;
+        font-family: poppins;
+    }
+    .add{
+        font-size: 20px;
+        padding-left: 3px;
+        display: inline;
+        font-family: poppins;
+    }
+    .email{
+        font-size: 25px;
+       padding-left: 400px;
+       display: inline;
+       text-shadow: 2px 2px 2px grey;
+       font-family: poppins;
+    }
+    .emain{
+        display: inline;
+        font-size: 21px;
+
+        font-family: poppins;
+
+       
+    }
+    .butt{
+      background-color: rgb(248, 33, 17);
+      border-radius: 24px;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .comment{
+      border-radius: 20px;
+    }
